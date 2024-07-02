@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JackpotPossibleOutcomes", "JackpotPossibleOutcomes.csproj", "{FEB59E9F-AA82-4E7E-B02E-AA65218E0503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB59E9F-AA82-4E7E-B02E-AA65218E0503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB59E9F-AA82-4E7E-B02E-AA65218E0503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB59E9F-AA82-4E7E-B02E-AA65218E0503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB59E9F-AA82-4E7E-B02E-AA65218E0503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BEEF084-6AA4-4FA4-A9A7-5A32505A57CC}
+	EndGlobalSection
+EndGlobal
